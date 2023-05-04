@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zx6783)](https://solved.ac/zx6783)
+
 <!--
 **zziny-mago/zziny-mago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
