@@ -4,7 +4,7 @@
 ### Self-Driving Car Engineer
 - LIDAR Perception 
 - SensorFusion
-- Contorl
+- Control
 
 ### Research Interest
 - GNN(Graph Neural Network)
