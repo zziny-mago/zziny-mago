@@ -14,7 +14,7 @@
 
 ### Research Interest
 - GNN(Graph Neural Network)
-- MLOps
+- Vision SW
 - Lidar Point Cloud
 - Object Detection
 
