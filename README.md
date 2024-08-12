@@ -2,7 +2,7 @@
 
 <br/>
 
-👨‍👨‍👦‍👦  **LG Electronics** <sub><sup>Vision AI Unit / 2023.08 ~ now</sup></sub>   
+👨‍👨‍👦‍👦  **LG Electronics** <sub><sup>Vision SW Unit / 2023.08 ~ now</sup></sub>   
 👨‍👨‍👦‍👦  **IVSP Lab** <sub><sup>지능형차량신호처리 연구실 석사 / 2022.08 ~ now</sup></sub>   
 👨‍👨‍👦‍👦  **DM Lab** <sub><sup>데이터마이닝 연구실 학부연구생/ 2021.08 ~ 2022.08</sup></sub>   
  
