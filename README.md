@@ -1,7 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=zx6783)](https://solved.ac/zx6783)
-
-<br/>
-
 ### Profile
 - Name: 홍석진
 - Age: 26(1999.09.22)
@@ -13,6 +9,10 @@
 👨‍👨‍👦‍👦  **IVSP Lab** <sub><sup>지능형차량신호처리 연구실 석사 / 2022.08 ~ 2024.08</sup></sub>   
 👨‍👨‍👦‍👦  **DM Lab** <sub><sup>데이터마이닝 연구실 학부연구생/ 2021.08 ~ 2022.08</sup></sub> <br/>
 👨‍👨‍👦‍👦  **Automobile and IT Convergence** <sub><sup>자동차IT융합학과/ 2018.03 ~ 2022.08</sup></sub>   
+
+## Research Interest
+- Lidar Point Cloud Deep Learning
+- GNN(Graph Neural Network)
 
 ### Information
 - 고향: 충청남도 천안
